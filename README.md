@@ -1,6 +1,6 @@
 # Doshin the Giant — 64DD English
 
-**v1.0-RC1 · Release candidate · Nintendo 64DD disk image (.ndd)**
+**v1.0-RC1 · Release candidate Patch · Nintendo 64DD disk image (.ndd) not provided**
 
 An English localisation of **Kyojin no Doshin** for Nintendo 64DD, using Nintendo’s official European GameCube wording wherever a suitable counterpart exists, with new English for the original game’s additional material.
 
