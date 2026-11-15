@@ -1,0 +1,24 @@
+{
+  "status": "passed",
+  "date": "2026-11-15",
+  "image_sha256": "155434901e77ccfed2ad024ec9712f204efaba7a6246d824f5de1a29a55f5eac",
+  "source_sha256": "d9044b187c5545f8f791bafb8821c3dd365fb822cc6dc893b8792e8ecce56450",
+  "patch_sha256": "8da474168d940f4605ff8d70fbc7768b65cb45bb40a891745547123d402c7f45",
+  "size_bytes": 64931840,
+  "code_changes_since_test10": false,
+  "regression_groups": 19,
+  "script_entries": 734,
+  "english_fields_containing_japanese": 0,
+  "unresolved_placeholder_markers": 0,
+  "remaining_sjis_scan_candidates": 90,
+  "classification": {
+    "Binary data decoding as text; not a text resource": 2,
+    "Superseded text pool tail; installed English and inventoried references verified": 12,
+    "Original diary bytes after replacement token terminator; token storage verified": 76
+  },
+  "scope": "Installed text, inventoried references, source-entry ledger, IPL Shift-JIS candidates and isolated native CPU regressions. Original artwork/logo and Japanese audio retained. Not exhaustive rare-state, compressed-resource or debug-menu proof.",
+  "hardware": "User accepted latest build for RC and reports all 16 monument route unlocks on EverDrive64 Pro in 64DD mode, firmware v26.1014.",
+  "patch_roundtrip": true,
+  "clean_save_partition": true,
+  "firmware_url": "https://krikzz.com/pub/support/everdrive-64/pro-series/firmware/ed64-pro-fw-v26.1014.efu"
+}

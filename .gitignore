@@ -1,0 +1,8 @@
+*.ndd
+*.z64
+*.n64
+*.v64
+*.iso
+*.ciso
+*.sav
+.DS_Store
