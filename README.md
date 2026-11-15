@@ -2,7 +2,7 @@
 
 **v1.0-RC1 · Release candidate · Nintendo 64DD disk image (.ndd)**
 
-An English localisation of **Kyojin no Doshin (Japan)** for Nintendo 64DD, using Nintendo’s official European GameCube wording wherever a suitable counterpart exists, with new English for the original game’s additional material.
+An English localisation of **Kyojin no Doshin** for Nintendo 64DD, using Nintendo’s official European GameCube wording wherever a suitable counterpart exists, with new English for the original game’s additional material.
 
 [Download RC1](https://github.com/randomprojectsfactory/Doshin-64DD-English/releases/tag/v1.0-RC1) · [Translation notes](TRANSLATION_NOTES.md) · [Testing and known limits](docs/TESTING.md) · [Report a problem](https://github.com/randomprojectsfactory/Doshin-64DD-English/issues/new/choose)
 
@@ -14,7 +14,7 @@ An English localisation of **Kyojin no Doshin (Japan)** for Nintendo 64DD, using
 - Readable English layout, additional dialogue pages, centred female captions and preserved hearts, skulls, arrows and controller pictograms.
 - Original Japanese audio. This is a subtitle/text patch, not an English dub.
 
-The script ledger contains **734 entries**; UI and graphical text are additional. Some original Japanese artwork, including the title logo, remains. Rare states and debug-menu coverage are not exhaustively verified. This is an RC, not a guarantee that every possible screen has been checked.
+The script ledger contains **734 entries**; UI and graphical text are additional. Some original Japanese artwork, including the title logo, remains. Rare states and debug-menu coverage are not exhaustively verified. This is an RC, not a guarantee that will work on every possible emulation core and flashcard.
 
 ## Tested hardware
 
