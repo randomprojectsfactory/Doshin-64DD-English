@@ -4,7 +4,7 @@
 
 An English localisation of **Kyojin no Doshin** for Nintendo 64DD, using Nintendo’s official European GameCube wording wherever a suitable counterpart exists, with new English for the original game’s additional material.
 
-[Download RC1](https://github.com/randomprojectsfactory/Doshin-64DD-English/releases/tag/v1.0-RC1) · [Translation notes](TRANSLATION_NOTES.md) · [Testing and known limits](docs/TESTING.md) · [Report a problem](https://github.com/randomprojectsfactory/Doshin-64DD-English/issues/new/choose)
+[Download RC1](https://github.com/randomprojectsfactory/Doshin-64DD-English/releases/tag/v1.0-RC1) · [Translation notes](TRANSLATION_NOTES.md) · [Testing and known limits](docs/TESTING.md) · [Report a problem](https://github.com/randomprojectsfactory/Doshin-64DD-English/issues/new/choose) · [Instruction booklet (PDF)](https://github.com/randomprojectsfactory/Doshin-64DD-English/releases/download/v1.0-RC1/Doshin_64DD_English_Instruction_Booklet_v1.0.pdf) · [Controls booklet (PDF)](https://github.com/randomprojectsfactory/Doshin-64DD-English/releases/download/v1.0-RC1/Doshin_64DD_English_Controls_Booklet_v1.0.pdf)
 
 ## What it covers
 
@@ -65,7 +65,7 @@ This project is **not based on Ozidual’s translation, patch or code**, and is 
 - Localisation project and hardware review: randomprojectsfactory.
 - Community reference: **[64DD.org — Doshin tips](https://64dd.org/tips_doshin.html)**, including its debug-mode warning and linked original research.
 
-This is an unofficial, non-commercial fan patch, not endorsed by Nintendo. No original game images, GameCube assets, manual scans or personal saves are distributed here.
+This is an unofficial, non-commercial fan patch, not endorsed by Nintendo. No original game images, GameCube assets or personal saves are distributed here.
 
 ## Debug-menu warning
 
