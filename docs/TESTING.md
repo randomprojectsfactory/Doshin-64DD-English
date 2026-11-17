@@ -11,7 +11,7 @@
 | Audio preservation | First three sections of all 335 banks identical to original. |
 | Clean patch round trip | Expected RC1 output hash reproduced; original clean save partition retained. |
 | Standalone emulators / cores | Full-game compatibility unverified; reports requested. |
-| MiSTer | Unverified; reports requested for a setup/core supporting this game and disk format. |
+| MiSTer FPGA / N64 core with 64DD support | Supported in initial hardware testing (17 November 2026): project owner reports RC1 boots and the UI, subtitles and text display without issues. Tested core: `N64_20260726.rbf` (latest official release at installation), NTSC PIF and Japanese retail IPL v1.2. Save/power-cycle/reload and full monument progression are not yet confirmed on MiSTer. |
 | SummerCart64 | Unverified; reports requested. |
 | Original 64DD drive | Untested. |
 
