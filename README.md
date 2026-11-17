@@ -70,3 +70,11 @@ This is an unofficial, non-commercial fan patch, not endorsed by Nintendo. No or
 ## Debug-menu warning
 
 **Do not enable TYCONF.SU DEBUG, option 15.** [64DD.org warns](https://64dd.org/tips_doshin.html) that it may corrupt an SD card on a flashcart and cause glitches in emulation. The [original community report](https://krikzz.com/forum/index.php?topic=5882.0) specifically describes an ED64 v2.5 crash and SD corruption. This project has not tested that option or established its safety on EverDrive64 Pro, SummerCart64, MiSTer or emulators. Debug-menu localisation is outside the verified coverage.
+
+## License and third-party rights
+
+Original contributions are available under the [custom Non-Commercial / No AI Training License](LICENSE.MD). Free non-commercial use and sharing are permitted subject to its conditions. **No sale, resale, paid bundling or other commercial exploitation is permitted except for a verified underlying intellectual-property rightsholder under Section 3.1, after proof and written confirmation.** Owning a game or cartridge does not qualify.
+
+**AI/LLM training, fine-tuning, distillation and model evaluation or improvement require separate explicit written permission.** The commercial exception does not grant AI-training rights.
+
+Third-party games, existing translations, artwork and firmware are excluded from this grant and retain their own rights and terms. See [Third-party notices](THIRD_PARTY_NOTICES.md) and the existing credits. This is a restrictive custom license, not an open-source license.
