@@ -18,11 +18,13 @@ The script ledger contains **734 entries**; UI and graphical text are additional
 
 ## Tested hardware
 
-**Hardware testing is currently limited to EverDrive64 Pro running the 64DD disk image.** The tester reports completing the **16-monument route unlocks**, using [EverDrive64 Pro firmware v26.1014](https://krikzz.com/pub/support/everdrive-64/pro-series/firmware/ed64-pro-fw-v26.1014.efu) (tested 15 November 2026). The latest test build was accepted for RC.
+**EverDrive64 Pro:** tested running the 64DD disk image. The tester reports completing the **16-monument route unlocks**, using [EverDrive64 Pro firmware v26.1014](https://krikzz.com/pub/support/everdrive-64/pro-series/firmware/ed64-pro-fw-v26.1014.efu) (tested 15 November 2026). The latest test build was accepted for RC.
 
 RC1 is byte-identical to clean Test10; only the distribution name and documentation changed. Nineteen software regression groups passed. These exercise selected native CPU paths, text storage, layout and asset integration; they are not a full-game emulator playthrough. Original audio data across 335 banks was verified unchanged, and patch application reproduces the expected image exactly.
 
-**Testing requested:** standalone emulators and cores, **MiSTer**, and **SummerCart64**. These targets are currently unverified; this is a request for compatibility reports, not a claim that each supports this image. Please report the exact hardware/core/emulator version, firmware, BIOS/IPL setup, renderer, boot/save/reload results and any text or subtitle problems. See [the test checklist](docs/TESTING.md).
+**MiSTer FPGA:** supported in initial hardware testing on 17 November 2026 with `N64_20260726.rbf` (the latest official N64/64DD core release at installation), NTSC PIF and Japanese retail 64DD IPL v1.2. The project owner reports that RC1 boots and the UI, subtitles and text display without issues. Save/power-cycle/reload and full monument progression remain to be confirmed on MiSTer.
+
+**Testing requested:** standalone emulators and cores, **SummerCart64**, and further MiSTer coverage. Standalone emulators and SummerCart64 remain unverified. Please report the exact hardware/core/emulator version, firmware, BIOS/IPL setup, renderer, boot/save/reload results and any text or subtitle problems. See [the test checklist](docs/TESTING.md).
 
 ## How to patch
 
