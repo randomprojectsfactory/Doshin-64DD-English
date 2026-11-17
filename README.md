@@ -4,7 +4,7 @@
 
 An English localisation of **Kyojin no Doshin** for Nintendo 64DD, using Nintendo’s official European GameCube wording wherever a suitable counterpart exists, with new English for the original game’s additional material.
 
-♥️[Download RC1](https://github.com/randomprojectsfactory/Doshin-64DD-English/releases/tag/v1.0-RC1) · ⭐️[Instruction booklet (PDF)](https://github.com/randomprojectsfactory/Doshin-64DD-English/releases/download/v1.0-RC1/Doshin_64DD_English_Instruction_Booklet_v1.0.pdf) · ⭐️[Controls booklet (PDF)](https://github.com/randomprojectsfactory/Doshin-64DD-English/releases/download/v1.0-RC1/Doshin_64DD_English_Controls_Booklet_v1.0.pdf) · [Translation notes](TRANSLATION_NOTES.md) · [Testing and known limits](docs/TESTING.md) · 🫠 [Report a problem](https://github.com/randomprojectsfactory/Doshin-64DD-English/issues/new/choose) 
+♥️[Download RC1](https://github.com/randomprojectsfactory/Doshin-64DD-English/releases/tag/v1.0-RC1) · ⭐️[Instruction booklet (PDF)](https://github.com/randomprojectsfactory/Doshin-64DD-English/releases/download/v1.0-RC1/Doshin_64DD_English_Instruction_Booklet_v1.0.pdf) · ⭐️[Controls booklet (PDF)](https://github.com/randomprojectsfactory/Doshin-64DD-English/releases/download/v1.0-RC1/Doshin_64DD_English_Controls_Booklet_v1.0.pdf) · ⭐️[Strategy guide (PDF, 327 MB)](https://github.com/randomprojectsfactory/Doshin-64DD-English/releases/download/v1.0-RC1/Doshin_Guide_English_Reading_Edition_v1.0.pdf) · [Translation notes](TRANSLATION_NOTES.md) · [Testing and known limits](docs/TESTING.md) · 🫠 [Report a problem](https://github.com/randomprojectsfactory/Doshin-64DD-English/issues/new/choose) 
 
 ## What it covers
 
@@ -63,6 +63,7 @@ This project is **not based on Ozidual’s translation, patch or code**, and is 
 
 - Original game, artwork, voices and official GameCube English: their respective rights holders, including Nintendo and the original development/localisation teams.
 - Localisation project and hardware review: randomprojectsfactory.
+- Strategy guide: original Japanese guide scans by Ozidual; English translation prepared for this project.
 - Community reference: **[64DD.org — Doshin tips](https://64dd.org/tips_doshin.html)**, including its debug-mode warning and linked original research.
 
 This is an unofficial, non-commercial fan patch, not endorsed by Nintendo. No original game images, GameCube assets or personal saves are distributed here.
