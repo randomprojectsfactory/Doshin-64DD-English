@@ -4,7 +4,10 @@
 
 An English localisation of **Kyojin no Doshin** for Nintendo 64DD, using Nintendo’s official European GameCube wording wherever a suitable counterpart exists, with new English for the original game’s additional material.
 
-♥️[Download RC1](https://github.com/randomprojectsfactory/Doshin-64DD-English/releases/tag/v1.0-RC1) · ⭐️[Instruction booklet (PDF)](https://github.com/randomprojectsfactory/Doshin-64DD-English/releases/download/v1.0-RC1/Doshin_64DD_English_Instruction_Booklet_v1.0.pdf) · ⭐️[Controls booklet (PDF)](https://github.com/randomprojectsfactory/Doshin-64DD-English/releases/download/v1.0-RC1/Doshin_64DD_English_Controls_Booklet_v1.0.pdf) · ⭐️[Strategy guide (PDF, 327 MB)](https://github.com/randomprojectsfactory/Doshin-64DD-English/releases/download/v1.0-RC1/Doshin_Guide_English_Reading_Edition_v1.0.pdf) (Thanks Iris, Tea and Coddie for the editing!)· [Translation notes](TRANSLATION_NOTES.md) · [Testing and known limits](docs/TESTING.md) · 🫠 [Report a problem](https://github.com/randomprojectsfactory/Doshin-64DD-English/issues/new/choose) 
+♥️[Download RC1](https://github.com/randomprojectsfactory/Doshin-64DD-English/releases/tag/v1.0-RC1) · ⭐️[Instruction booklet (PDF)](https://github.com/randomprojectsfactory/Doshin-64DD-English/releases/download/v1.0-RC1/Doshin_64DD_English_Instruction_Booklet_v1.0.pdf) · ⭐️[Controls booklet (PDF)](https://github.com/randomprojectsfactory/Doshin-64DD-English/releases/download/v1.0-RC1/Doshin_64DD_English_Controls_Booklet_v1.0.pdf) · ⭐️[Strategy guide (PDF, 327 MB)](https://github.com/randomprojectsfactory/Doshin-64DD-English/releases/download/v1.0-RC1/Doshin_Guide_English_Reading_Edition_v1.0.pdf) (Thanks Iris, Tea and Coddie for the editing!)
+[Translation notes](TRANSLATION_NOTES.md) 
+[Testing and known limits](docs/TESTING.md) 
+🫠 [Report a problem](https://github.com/randomprojectsfactory/Doshin-64DD-English/issues/new/choose) 
 
 ## What it covers
 
